@@ -1,6 +1,6 @@
 ### Welcome to my unintentional hidden room
 
-[![GitHub followers](https://img.shields.io/github/followers/bananaholograma?label=Follow&style=social)](https://github.com/orgs/GodotParadise/followers)
+[![GitHub followers](https://img.shields.io/github/followers/bananaholograma?label=Follow&style=social)](https://github.com/orgs/bananaholograma/followers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/godotparadise) 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/godotparadise)
 [![Kofi](https://badgen.net/badge/icon/kofi?icon=kofi&label)](https://ko-fi.com/bananaholograma)
