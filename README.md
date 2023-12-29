@@ -9,3 +9,7 @@
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.godotengine.org/en/stable/tutorials/scripting/c_sharp/index.html)
 ---
 
+
+<p align="center">
+	<img width="256px" src="hoodie_profile_2.jpg" alt="hoodie_profile_2" />
+</p>
